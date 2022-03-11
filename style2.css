@@ -1,0 +1,77 @@
+body {
+    background-color: #eee;
+    font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
+    
+}
+
+.title {
+    font-size: 46px;
+    text-transform: uppercase;
+}
+
+* {
+
+    color: #505050;
+}
+
+.title,
+.subtitle,
+.post-title {
+    color: blue;
+}
+
+.post-title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0px;
+    margin-bottom: 15px;
+}
+
+.post {
+    background-color: #fff;
+    padding: 20px;
+    border: 3px solid #505050;
+    margin-bottom: 10px;
+
+}
+
+.post {
+    background-color: #fff;
+    padding: 20px;
+    border: 3px solid #505050;
+    margin-bottom: 10px;
+}
+
+.post-content {
+    margin: 0px;
+    margin-bottom: 15px;
+    border: 3px solid black;
+    text-transform: capitalize;
+    text-align: justify;
+
+}
+
+.post-image {
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+
+.content-list{
+    list-style-type: none;
+    padding-left: 10px;
+    /* list-style-type: square; */
+}
+
+
+/* Ancora *** */
+.content-list li * {
+    color: blue;
+    
+}
+.content-list li * {
+
+    text-decoration: none;
+}
